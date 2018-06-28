@@ -1,0 +1,6 @@
+/App_Data
+
+/App_Start
+bin/
+Obj/
+Properties/

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FacultyWebApi.RouteConfig" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>App_Start\RouteConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FacultyWebApi.WebApiConfig" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App_Start\WebApiConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FacultyWebApi.Global" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Global.asax.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FacultyWebApi.multimedia_db2Entities1" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAEAAAAAIAAAA=</HashCode>
+      <FileName>multimedia_db2.Context.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FacultyWebApi.course" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAABCAAAAEAAAAAAAAAAgA=</HashCode>
+      <FileName>course.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FacultyWebApi.doctor" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAQAAAAAAAAAAUAAAAAAAAgQ=</HashCode>
+      <FileName>doctor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FacultyWebApi.user" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAEAAAIAAgAAAAAAgg=</HashCode>
+      <FileName>user.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FacultyWebApi.Controllers.CourseController" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAEAAAgACAAAAAAAAAg=</HashCode>
+      <FileName>Controllers\CourseController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FacultyWebApi.Controllers.Doctor_CoursesController" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\Doctor_CoursesController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FacultyWebApi.Controllers.DoctorController" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAEAAAgAAAAAAAAAAAg=</HashCode>
+      <FileName>Controllers\DoctorController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FacultyWebApi.Controllers.FacultyController" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAEAAAgAAAAAAAAAAAg=</HashCode>
+      <FileName>Controllers\FacultyController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
